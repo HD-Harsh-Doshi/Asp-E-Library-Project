@@ -1,0 +1,10 @@
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\bin\E-Library.dll.config
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\bin\E-Library.dll
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\bin\E-Library.pdb
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\obj\Debug\E-Library.csprojAssemblyReference.cache
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\obj\Debug\E-Library.csproj.CoreCompileInputs.cache
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\obj\Debug\E-Library.csproj.CopyComplete
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\obj\Debug\E-Library.dll
+E:\Bsc(CA&IT)-5\Asp.net\E-Library-master\obj\Debug\E-Library.pdb
